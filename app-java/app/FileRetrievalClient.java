@@ -1,4 +1,4 @@
-package csc435.app;
+package app;
 public class FileRetrievalClient
 {
     public static void main(String[] args)
