@@ -1,4 +1,4 @@
-package csc435.app;
+package app;
 
 import java.io.IOException;
 import java.net.ServerSocket;
